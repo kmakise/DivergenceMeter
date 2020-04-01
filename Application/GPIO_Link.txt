@@ -1,0 +1,17 @@
+PF0 ---- DS3231 SCL
+PF1 ---- DS3231 SDA
+
+PA0 ---- Key-S1
+PA1 ---- Key-S2
+PA2 ---- DS
+PA3 ---- RCK
+PA4 ---- SCK
+PA5 ---- HVPS-EN 
+PA6 ---- PWM1
+PA7 ---- PWM2
+PA9 ---- OLED SDA
+PA10--- Key-S3
+PA13--- NC
+PA14--- NC
+
+PB1 ---- OLED SCL

@@ -1,0 +1,58 @@
+Configuration	Divergence Meter
+STM32CubeMX 	4.26.0
+Date	04/09/2019
+MCU	STM32F030F4Px
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+TIM3	Internal Clock	TIM3_VS_ClockSourceINT	VP_TIM3_VS_ClockSourceINT
+TIM3	PWM Generation CH1	TIM3_CH1	PA6
+TIM3	PWM Generation CH2	TIM3_CH2	PA7
+TIM14	Enable_Timer	TIM14_VS_ClockSourceINT	VP_TIM14_VS_ClockSourceINT
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PF0-OSC_IN	GPIO_Output	DS3231 SCL
+3	PF1-OSC_OUT	GPIO_Output	DS3231 SDA
+6	PA0	GPIO_Input	Key1
+7	PA1	GPIO_Input	Key2
+8	PA2	GPIO_Output	DS
+9	PA3	GPIO_Output	RCK
+10	PA4	GPIO_Output	SCK
+11	PA5	GPIO_Output	HVPS EN
+12	PA6	TIM3_CH1	PWM1
+13	PA7	TIM3_CH2	PWM2
+14	PB1	GPIO_Output	OLED SCL
+17	PA9	GPIO_Output	OLED SDA
+18	PA10	GPIO_Input	Key3
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : Divergence Meter
+Project Folder : E:\WorkSpace\Microcontroller\STM32F030F4P6\Divergence Meter\Divergence Meter
+Toolchain / IDE : MDK-ARM V5
+Firmware Package Name and Version : STM32Cube FW_F0 V1.9.0
+
+
+Code Generation Settings : 
+STM32Cube Firmware Library Package : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : Balanced Size/Speed
+
+
+
+
+
+
