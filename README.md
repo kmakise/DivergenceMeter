@@ -27,10 +27,10 @@ OLED：IIC 128*64
 ### 控制板
 ![控制板](https://github.com/kerisu/DivergenceMeter/blob/master/image/ctbd.jpg)
 ### 驱动板 AD
-![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB (1).png)
-![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB (2).png)
-![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB (3).png)
-![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB (4).png)
+![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB1.png)
+![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB2.png)
+![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB3.png)
+![驱动板PCB](https://github.com/kerisu/DivergenceMeter/blob/master/image/PCB4.png)
 ### 驱动板 实物
 ![控制板](https://github.com/kerisu/DivergenceMeter/blob/master/image/pcbb.jpg)
 ![控制板](https://github.com/kerisu/DivergenceMeter/blob/master/image/pcbt.jpg)
