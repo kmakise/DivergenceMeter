@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NX1_1 Pin=NX1-2
+Removed Pin From Net: NetName=NetNX1_12 Pin=NX1-12
+Removed Pin From Net: NetName=NX2_1 Pin=NX2-2
+Removed Pin From Net: NetName=NetNX2_12 Pin=NX2-12
+Removed Pin From Net: NetName=NX3_1 Pin=NX3-2
+Removed Pin From Net: NetName=NetNX3_12 Pin=NX3-12
+Removed Pin From Net: NetName=NX4_1 Pin=NX4-2
+Removed Pin From Net: NetName=NetNX4_12 Pin=NX4-12
+Removed Pin From Net: NetName=NX5_1 Pin=NX5-2
+Removed Pin From Net: NetName=NetNX5_12 Pin=NX5-12
+Removed Pin From Net: NetName=NX6_1 Pin=NX6-2
+Removed Pin From Net: NetName=NetNX6_12 Pin=NX6-12
+Removed Pin From Net: NetName=NX7_1 Pin=NX7-2
+Removed Pin From Net: NetName=NetNX7_12 Pin=NX7-12
+Removed Pin From Net: NetName=NX8_1 Pin=NX8-2
+Removed Pin From Net: NetName=NetNX8_12 Pin=NX8-12
+Added Pin To Net: NetName=NetNX1_12 Pin=NX1-2
+Added Pin To Net: NetName=NX1_1 Pin=NX1-12
+Added Pin To Net: NetName=NetNX2_12 Pin=NX2-2
+Added Pin To Net: NetName=NX2_1 Pin=NX2-12
+Added Pin To Net: NetName=NetNX3_12 Pin=NX3-2
+Added Pin To Net: NetName=NX3_1 Pin=NX3-12
+Added Pin To Net: NetName=NetNX4_12 Pin=NX4-2
+Added Pin To Net: NetName=NX4_1 Pin=NX4-12
+Added Pin To Net: NetName=NetNX5_12 Pin=NX5-2
+Added Pin To Net: NetName=NX5_1 Pin=NX5-12
+Added Pin To Net: NetName=NetNX6_12 Pin=NX6-2
+Added Pin To Net: NetName=NX6_1 Pin=NX6-12
+Added Pin To Net: NetName=NetNX7_12 Pin=NX7-2
+Added Pin To Net: NetName=NX7_1 Pin=NX7-12
+Added Pin To Net: NetName=NetNX8_12 Pin=NX8-2
+Added Pin To Net: NetName=NX8_1 Pin=NX8-12
+Change Net Name : Old Net Name=NetNX1_12 New Net Name=NetNX1_2
+Change Net Name : Old Net Name=NetNX2_12 New Net Name=NetNX2_2
+Change Net Name : Old Net Name=NetNX3_12 New Net Name=NetNX3_2
+Change Net Name : Old Net Name=NetNX4_12 New Net Name=NetNX4_2
+Change Net Name : Old Net Name=NetNX5_12 New Net Name=NetNX5_2
+Change Net Name : Old Net Name=NetNX6_12 New Net Name=NetNX6_2
+Change Net Name : Old Net Name=NetNX7_12 New Net Name=NetNX7_2
+Change Net Name : Old Net Name=NetNX8_12 New Net Name=NetNX8_2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
